@@ -1,4 +1,4 @@
-# Choisir une image de base avec Node.js
+# On part d'une image de base alpine avec NODE v20
 FROM node:20-alpine
 # Définit le dossier de travail dans le conteneur
 WORKDIR /app
