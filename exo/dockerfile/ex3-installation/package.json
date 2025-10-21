@@ -1,0 +1,7 @@
+{
+  "name": "ex3-installation",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
